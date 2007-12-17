@@ -7,7 +7,6 @@ License:	GPL
 URL:		ftp://ftp.atmsk.ru/pub/rox/
 Source0:	rox-mixer-0.1.tar.bz2
 Patch: rox-mixer-0.1-build.patch
-BuildRoot:	%_tmppath/%name-%version
 BuildRequires:  libgtk+2-devel
 Requires:	rox
 
