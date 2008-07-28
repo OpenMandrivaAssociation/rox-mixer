@@ -1,6 +1,6 @@
 Name:		rox-mixer
 Version:	0.1
-Release:	%mkrel 6
+Release:	%mkrel 8
 Summary:	OSS sound volume ROX-applet
 Group:		Graphical desktop/Other
 License:	GPL
